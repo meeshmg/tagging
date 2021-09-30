@@ -1,0 +1,17 @@
+#Results for query "config from cloud.resource where cloud.accountgroup = 'cloud_governance_team_qa' AND api.name= 'aws-ec2-describe-subnets' and json.rule = ((tags[*].key != Project) or (tags[*].key != Component) or (tags[*].key != Environment) or (tags[*].key != Department) or (tags[*].key != Contact))" executed for time range from: Sep 28, 2021 12.22 MDT America/Denver, to: Sep 29, 2021 12.22 MDT America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified
+subnet-0e628675,Amazon VPC,governance-qa-inventory,AWS Osaka,"Sep 05, 2021 18.30 MDT America/Denver"
+subnet-f1b07598,Amazon VPC,governance-qa-inventory,AWS Osaka,"Sep 05, 2021 18.30 MDT America/Denver"
+subnet-82df78cf,Amazon VPC,governance-qa-inventory,AWS Osaka,"Sep 05, 2021 18.30 MDT America/Denver"
+pus-network-private-a,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Aug 18, 2021 11.34 MDT America/Denver"
+pus-network-private-b,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Aug 18, 2021 11.34 MDT America/Denver"
+subnet-335b877e,Amazon VPC,Governance-QA-ServiceCatalog,AWS Osaka,"Jul 06, 2021 00.45 MDT America/Denver"
+subnet-e739259f,Amazon VPC,Governance-QA-ServiceCatalog,AWS Osaka,"Jul 06, 2021 00.45 MDT America/Denver"
+subnet-b07082d9,Amazon VPC,Governance-QA-ServiceCatalog,AWS Osaka,"Jul 06, 2021 00.45 MDT America/Denver"
+subnet-f2b0759b,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+subnet-03628678,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+subnet-9fdf78d2,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+subnet-f5a05c9c,Amazon VPC,mxr-governance-qa-master,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+subnet-7a875937,Amazon VPC,mxr-governance-qa-master,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+subnet-c9f5eab1,Amazon VPC,mxr-governance-qa-master,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver"
+pus-network-public,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Jun 24, 2021 13.37 MDT America/Denver"

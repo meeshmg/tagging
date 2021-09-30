@@ -1,0 +1,9 @@
+#Results for query "config from cloud.resource where cloud.accountgroup = 'cloud_governance_team_qa' AND api.name= 'aws-ec2-describe-instances' AND json.rule = 'tags.Project does not exist or tags.Component does not exist or tags.Environment does not exist or tags.Department does not exist or tags.Contact does not exist'" executed for time range from: Sep 28, 2021 11.56 MDT America/Denver, to: Sep 29, 2021 11.56 MDT America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified
+rds-bastion,Amazon EC2,governance-qa-tools,AWS Virginia,"Sep 13, 2021 15.08 MDT America/Denver"
+rds-bastion,Amazon EC2,governance-qa-tools,AWS Virginia,"Aug 18, 2021 16.24 MDT America/Denver"
+rds-bastion,Amazon EC2,Governance-QA-ServiceCatalog,AWS Virginia,"Jun 28, 2021 19.53 MDT America/Denver"
+ecs-tmp-bastion,Amazon EC2,Governance-QA-ServiceCatalog,AWS Virginia,"Jun 28, 2021 17.57 MDT America/Denver"
+linux-bastion,Amazon EC2,governance-qa-sandbox,AWS Virginia,"Jun 24, 2021 16.34 MDT America/Denver"
+i-0cc16c2d0b3e13355,Amazon EC2,governance-qa-inventory,AWS Virginia,"Apr 30, 2021 08.35 MDT America/Denver"
+inventory-dev-ad-access,Amazon EC2,governance-qa-inventory,AWS Virginia,"Apr 29, 2021 11.05 MDT America/Denver"

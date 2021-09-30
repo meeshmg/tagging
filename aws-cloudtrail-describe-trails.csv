@@ -1,0 +1,12 @@
+#Results for query "config from cloud.resource where cloud.accountgroup = 'cloud_governance_team_qa' AND api.name= 'aws-cloudtrail-describe-trails' AND json.rule = 'tags.Project does not exist or tags.Component does not exist or tags.Environment does not exist or tags.Department does not exist or tags.Contact does not exist'" executed for time range from: Sep 28, 2021 11.56 MDT America/Denver, to: Sep 29, 2021 11.56 MDT America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified
+mxr-governance-global-cloudtrail-853743924121,AWS CloudTrail,governance-qa-decipher,AWS Virginia,"Apr 27, 2021 12.22 MDT America/Denver"
+mxr-governance-global-cloudtrail-632222446329,AWS CloudTrail,governance-qa-logging-govcloud,AWS Virginia,"Apr 26, 2021 11.06 MDT America/Denver"
+mxr-governance-global-cloudtrail-507315982361,AWS CloudTrail,mxr-governance-qa-master,AWS Virginia,"Apr 15, 2021 16.50 MDT America/Denver"
+mxr-governance-global-cloudtrail-574485822635,AWS CloudTrail,mxr-governance-qa-sectools,AWS Virginia,"Mar 16, 2021 16.59 MDT America/Denver"
+mxr-governance-global-cloudtrail-903175335064,AWS CloudTrail,governance-qa-sandbox,AWS Virginia,"Mar 01, 2021 23.45 MST America/Denver"
+mxr-governance-global-cloudtrail-357940840310,AWS CloudTrail,Governance-QA-ServiceCatalog,AWS Virginia,"Mar 01, 2021 23.42 MST America/Denver"
+mxr-governance-global-cloudtrail-257243945228,AWS CloudTrail,governance-qa-sectools-govcloud,AWS Virginia,"Mar 01, 2021 23.41 MST America/Denver"
+mxr-governance-global-cloudtrail-264426855184,AWS CloudTrail,governance-qa-tools,AWS Virginia,"Mar 01, 2021 23.38 MST America/Denver"
+mxr-governance-global-cloudtrail-463814673255,AWS CloudTrail,governance-qa-logging,AWS Virginia,"Mar 01, 2021 23.33 MST America/Denver"
+mxr-governance-global-cloudtrail-384124098735,AWS CloudTrail,governance-qa-inventory,AWS Virginia,"Mar 01, 2021 23.32 MST America/Denver"
