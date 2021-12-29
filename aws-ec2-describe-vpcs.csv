@@ -1,7 +1,0 @@
-#Results for query "config from cloud.resource where cloud.accountgroup = 'cloud_governance_team_qa' AND api.name= 'aws-ec2-describe-vpcs' and json.rule = ((tags[*].key != Project) or (tags[*].key != Component) or (tags[*].key != Environment) or (tags[*].key != Department) or (tags[*].key != Contact))" executed for time range from: Sep 28, 2021 12.26 MDT America/Denver, to: Sep 29, 2021 12.26 MDT America/Denver and executed by michelle.griffith1@maxar.com
-Resource Name,Service,Account,Region,Last Modified
-vpc-55bfd53c,Amazon VPC,governance-qa-inventory,AWS Osaka,"Aug 17, 2021 01.21 MDT America/Denver"
-vpc-c51371ac,Amazon VPC,Governance-QA-ServiceCatalog,AWS Osaka,"Aug 17, 2021 01.13 MDT America/Denver"
-pus-network,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Aug 17, 2021 01.12 MDT America/Denver"
-vpc-56bfd53f,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Aug 17, 2021 01.08 MDT America/Denver"
-vpc-eb563b82,Amazon VPC,mxr-governance-qa-master,AWS Osaka,"Aug 17, 2021 01.08 MDT America/Denver"
