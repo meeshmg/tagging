@@ -1,0 +1,8 @@
+#Results for query "config from cloud.resource where cloud.accountgroup= 'cloud_governance_team_qa' and api.name= 'aws-ec2-describe-subnets' and json.rule = ((tags[*].key != Project) or (tags[*].key != Component) or (tags[*].key != Environment) or (tags[*].key != Department) or (tags[*].key != Contact))" executed for time range from: Dec 28, 2021 14.44 MST America/Denver, to: Dec 29, 2021 14.44 MST America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified,Deleted
+pus-network-private-a,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Aug 18, 2021 11.34 MDT America/Denver",false
+pus-network-private-b,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Aug 18, 2021 11.34 MDT America/Denver",false
+subnet-f2b0759b,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver",false
+subnet-03628678,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver",false
+subnet-9fdf78d2,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver",false
+pus-network-public,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Jun 24, 2021 13.37 MDT America/Denver",false

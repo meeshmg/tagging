@@ -1,0 +1,11 @@
+#Results for query "config from cloud.resource where cloud.accountgroup= 'cloud_governance_team_qa' and api.name= 'aws-apigateway-get-rest-apis' AND json.rule = 'tags.Project does not exist or tags.Component does not exist or tags.Environment does not exist or tags.Department does not exist or tags.Contact does not exist'" executed for time range from: Dec 28, 2021 14.28 MST America/Denver, to: Dec 29, 2021 14.28 MST America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified,Deleted
+AVM-API-Gateway,Amazon API Gateway,Governance-QA-ServiceCatalog,AWS Virginia,"Dec 14, 2021 07.00 MST America/Denver",false
+ADIntegrationAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 16.07 MDT America/Denver",false
+ADIntegrationAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 16.07 MDT America/Denver",false
+ADLoggingAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 18, 2021 06.10 MST America/Denver",false
+AWSATAppSyncVpcProxy,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 17, 2021 08.36 MST America/Denver",false
+AWSATLoggingAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 17, 2021 08.36 MST America/Denver",false
+ADLoggingAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 15, 2021 22.55 MST America/Denver",false
+AWSATAppSyncVpcProxy,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 15, 2021 22.55 MST America/Denver",false
+AWSATLoggingAPI,Amazon API Gateway,governance-qa-inventory,AWS Virginia,"Feb 15, 2021 22.55 MST America/Denver",false

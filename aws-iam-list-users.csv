@@ -1,0 +1,7 @@
+#Results for query "config from cloud.resource where cloud.accountgroup= 'cloud_governance_team_qa' and api.name= 'aws-iam-list-users' AND json.rule = ((tags[*].Project does not exist) or (tags[*].Component does not exist) or (tags[*].Environment does not exist) or (tags[*].Department does not exist) or (tags[*].Contact does not exist))" executed for time range from: Dec 28, 2021 14.59 MST America/Denver, to: Dec 29, 2021 14.59 MST America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified,Deleted
+root,AWS IAM,governance-qa-logging,,"Dec 13, 2021 13.17 MST America/Denver",false
+SecondTestUser,AWS IAM,governance-qa-tools,,"Oct 19, 2021 10.59 MDT America/Denver",false
+TestUser,AWS IAM,governance-qa-tools,,"Oct 13, 2021 17.55 MDT America/Denver",false
+root,AWS IAM,mxr-governance-qa-sectools,,"May 12, 2021 18.08 MDT America/Denver",false
+root,AWS IAM,governance-qa-tools,,"Apr 23, 2021 04.00 MDT America/Denver",false

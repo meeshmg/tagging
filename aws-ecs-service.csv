@@ -1,0 +1,5 @@
+#Results for query "config from cloud.resource where cloud.accountgroup= 'cloud_governance_team_qa' and api.name= 'aws-ecs-service' AND json.rule = ((tags[*].key != Project) or (tags[*].key != Component) or (tags[*].key != Environment) or (tags[*].key != Department) or (tags[*].key != Contact))" executed for time range from: Dec 28, 2021 14.50 MST America/Denver, to: Dec 29, 2021 14.50 MST America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified,Deleted
+SC-384124098735-pp-hovmy4ivptluw-ADIntegrationService-fFlNGFUc9ZMa,Amazon ECS,governance-qa-inventory,AWS Virginia,"Nov 12, 2021 21.49 MST America/Denver",false
+geoffrey-testing-container-ADIntegrationService-B9M43BWuXkh1,Amazon ECS,governance-qa-inventory,AWS Virginia,"Oct 19, 2021 20.01 MDT America/Denver",false
+SC-384124098735-pp-ff2cogu3ktxso-ADIntegrationService-VaQse2iZE8zd,Amazon ECS,governance-qa-inventory,AWS Virginia,"Oct 06, 2021 17.35 MDT America/Denver",false

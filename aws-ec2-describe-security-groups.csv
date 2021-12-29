@@ -1,0 +1,14 @@
+#Results for query "config from cloud.resource where cloud.accountgroup= 'cloud_governance_team_qa' and api.name= 'aws-ec2-describe-security-groups' and json.rule = ((tags[*].key != Project) or (tags[*].key != Component) or (tags[*].key != Environment) or (tags[*].key != Department) or (tags[*].key != Contact))" executed for time range from: Dec 28, 2021 14.42 MST America/Denver, to: Dec 29, 2021 14.42 MST America/Denver and executed by michelle.griffith1@maxar.com
+Resource Name,Service,Account,Region,Last Modified,Deleted
+geoffrey-testing-container-ECSSecurityGroup-18LAGDGY9Y38Y,Amazon VPC,governance-qa-inventory,AWS Virginia,"Oct 19, 2021 11.50 MDT America/Denver",false
+bastion-ssh-rds,Amazon VPC,governance-qa-tools,AWS Virginia,"Sep 13, 2021 14.21 MDT America/Denver",false
+default,Amazon VPC,governance-qa-sectools-govcloud,AWS Osaka,"Jul 06, 2021 00.40 MDT America/Denver",false
+SC-384124098735-pp-hovmy4ivptluw-ECSSecurityGroup-VAH90PQXRT0U,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 16.12 MDT America/Denver",false
+allow cloudwatch sg,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 16.12 MDT America/Denver",false
+SC-384124098735-pp-ff2cogu3ktxso-ECSSecurityGroup-1WFO5TQ27FJ7I,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 16.12 MDT America/Denver",false
+allow api gateway sg,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 15.52 MDT America/Denver",false
+allow dynamodb sg,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jun 25, 2021 15.52 MDT America/Denver",false
+default,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Jun 24, 2021 13.37 MDT America/Denver",false
+test-sg,Amazon VPC,governance-qa-sandbox,AWS Virginia,"Jun 24, 2021 13.37 MDT America/Denver",false
+default,Amazon VPC,governance-qa-tools,AWS Virginia,"May 04, 2021 13.51 MDT America/Denver",false
+inventory-database,Amazon VPC,governance-qa-inventory,AWS Virginia,"Jan 19, 2021 04.52 MST America/Denver",false
